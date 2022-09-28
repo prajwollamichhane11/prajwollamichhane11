@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Prajwol Lamichhane.
 
 ## About Me
-- 💻 Currently I'm a Machine Learning Engineer at [Fusemachines](https://fusemachines.com).
-- 🌱 I work on Data Processing, Models and Pipeline Development.
+- 💻 Currently I'm a Graduate Research Assistant at [University of North Florida](https://sites.google.com/view/indikamk/research).
+- 🌱 I work on Machine Learning, Data Engineering, Models and Pipeline Development.
 - 🔭 Research Interests: Neural Networks and Natural Language Processing. 
 - 💞️ I’m looking to collaborate on Natural Language Processing.
 - 🔭 Check out my [research activity](https://www.researchgate.net/profile/Prajwol-Lamichhane).
